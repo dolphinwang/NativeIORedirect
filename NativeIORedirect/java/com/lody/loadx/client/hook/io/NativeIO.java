@@ -11,7 +11,7 @@ package com.lody.loadx.client.hook.io;
  */
 public class NativeIO {
 
-    private static final boolean ENABLE_IO_REDIRECT = false;
+    private static final boolean ENABLE_IO_REDIRECT = true;
 
     private static final int RESULT_OPEN_SUCCESS = 0;
 
